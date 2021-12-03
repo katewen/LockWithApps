@@ -1,0 +1,9 @@
+Package: com.erik.applock
+Name: AppLockTweak
+Version: 0.0.7
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Erik
+Author: Erik
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
